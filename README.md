@@ -29,3 +29,4 @@ Then scroll to the bottom of the page to commit file.
 - commit -> Save your files in Git
 - push -> Upload Git commits to a remote repository (repo) like Github, Bitbucket, etc.
 - pull -> Download changes from a remote repo to your local machine, the opposite of push
+- git --version -> To check version of git installed on machine 
