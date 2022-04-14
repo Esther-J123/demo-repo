@@ -2,7 +2,7 @@
 
 ## Git and Github
 
-Add in some text
+Add in some text here
 Then scroll to the bottom of the page to commit file.
 
 **What is Git?**
