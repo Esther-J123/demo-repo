@@ -24,9 +24,20 @@ Then scroll to the bottom of the page to commit file.
 - Github -> A website to host your repositories online. Being online mekes it easier to collaborate with other people on your project and organise your work into a portfolio to show potential employers.
 
 ## Git Commands
-- clone -> Brings a repository that is hosted somewhere like Github into a folder on your local machine.
-- add -> Track your files and changes in Git
-- commit -> Save your files in Git
+- git clone -> Brings a repository that is hosted somewhere like Github into a folder on your local machine.
+- git add -> Track your files and changes in Git
+- git commit -> Save your files in Git
 - push -> Upload Git commits to a remote repository (repo) like Github, Bitbucket, etc.
 - pull -> Download changes from a remote repo to your local machine, the opposite of push
 - git --version -> To check version of git installed on machine 
+- git init --> To initialise a new empty repository
+- git status --> To see the working directory and the staging area
+- git ls-files --> Files in the staging area
+- git rm --> To remove the file from both the working directory and the satging area
+- git mv --> To rename file name in both the working directory and the satging area
+
+## Standard unix commands 
+- ls -a --> To list all the files in the directory
+- mkdir --> Create a new folder 
+- rm --> To remove a file 
+- mv --> For renaming and moving files name in a directory
